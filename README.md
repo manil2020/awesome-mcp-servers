@@ -173,6 +173,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 
 | Server | Description |
 |---|---|
+| [Agent QA](https://github.com/vostride/agent-qa) | Runs natural-language web and mobile regression tests with retained execution evidence. |
 | [Playwright](https://github.com/microsoft/playwright-mcp) | Official Microsoft Playwright MCP. |
 | [Puppeteer](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) | Browser automation and scraping. |
 | [Browser Use](https://github.com/browser-use/browser-use) | AI-driven browser control. |
