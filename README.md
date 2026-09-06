@@ -128,6 +128,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 | [Jira](https://github.com/sooperset/mcp-atlassian) | Atlassian MCP — Jira + Confluence. |
 | [Confluence](https://github.com/sooperset/mcp-atlassian) | Wikis, spaces, pages. |
 | [Asana](https://developers.asana.com/docs/mcp) | Official Asana MCP. |
+| [Process Street](https://github.com/process-street/process-street-mcp) | Manage workflows, runs, tasks, users, data sets, and records. |
 | [Trello](https://github.com/delorenj/mcp-server-trello) | Board, list, and card management. |
 | [Todoist](https://github.com/abhiz123/todoist-mcp-server) | Task management. |
 | [ClickUp](https://github.com/taazkareem/clickup-mcp-server) | Project and task management. |
