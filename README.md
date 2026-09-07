@@ -202,6 +202,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 | [HuggingFace](https://github.com/evalstate/mcp-hfspace) | Interact with HF Spaces. |
 | [Replicate](https://github.com/deepfates/mcp-replicate) | Run models on Replicate. |
 | [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) | Query OpenAI models directly. |
+| [RunAPI](https://github.com/runapi-ai/mcp) | Run AI image, video, music, audio, and LLM jobs through one MCP server. |
 | [Ollama](https://github.com/rawveg/ollama-mcp) | Local LLMs via Ollama. |
 | [Pinecone](https://github.com/sirmews/mcp-pinecone) | Vector database queries. |
 | [Weaviate](https://github.com/weaviate/mcp-server-weaviate) | Vector database with hybrid search. |
