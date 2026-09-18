@@ -241,6 +241,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 
 | Server | Description |
 |---|---|
+| [Statsnet](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` |
 | [Stripe](https://github.com/stripe/agent-toolkit) | Payments and billing. |
 | [Plaid](https://github.com/hellozukun/plaid-mcp) | Banking data via Plaid. |
 | [PayPal](https://mcp.paypal.com/) | Official PayPal MCP. |
