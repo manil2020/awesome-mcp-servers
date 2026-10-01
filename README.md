@@ -163,6 +163,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 | [DuckDuckGo](https://github.com/nickclyde/duckduckgo-mcp-server) | Privacy-focused web search. |
 | [Kagi](https://github.com/kagisearch/kagimcp) | Official Kagi search MCP. |
 | [SerpAPI](https://github.com/ilyazub/serpapi-mcp-server) | SERP data from Google, Bing, and more. |
+| [Robot Speed](https://github.com/robot-speed/mcp) | Hosted SEO and AI-visibility MCP, including a free no-auth tool subset. |
 | [Wikipedia](https://github.com/rudra-ravi/wikipedia-mcp) | Query Wikipedia articles. |
 | [arXiv](https://github.com/blazickjp/arxiv-mcp-server) | Search academic papers. |
 | [Firecrawl](https://github.com/mendableai/firecrawl-mcp-server) | Scrape and crawl any website. |
