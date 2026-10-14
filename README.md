@@ -101,6 +101,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 | [Netlify](https://docs.netlify.com/build/build-with-ai/netlify-mcp-server/) | Manage Netlify sites and deployments. |
 | [Railway](https://github.com/jason-tan/railway-mcp) | Railway.app project management. |
 | [Fly.io](https://github.com/superfly/mcp-fly) | Manage Fly.io applications. |
+| [Kleap](https://github.com/kleaphq/cli) | Hosted MCP to create, edit, and publish websites (34 tools). |
 
 ---
 
