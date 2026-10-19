@@ -241,6 +241,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 
 | Server | Description |
 |---|---|
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local macOS payment runtime with foreground owner approval. |
 | [Stripe](https://github.com/stripe/agent-toolkit) | Payments and billing. |
 | [Plaid](https://github.com/hellozukun/plaid-mcp) | Banking data via Plaid. |
 | [PayPal](https://mcp.paypal.com/) | Official PayPal MCP. |
