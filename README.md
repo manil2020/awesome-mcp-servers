@@ -149,6 +149,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 | [Gmail](https://github.com/GongRzhe/Gmail-MCP-Server) | Read/send email via Gmail. |
 | [Outlook](https://github.com/ryaker/outlook-mcp) | Microsoft Outlook mail/calendar. |
 | [Resend](https://github.com/resend/mcp-send-email) | Send transactional email. |
+| [PlaceCall](https://github.com/voygr-tech/placecall) | Hosted server that phones US businesses (bookings, quotes) and returns outcome and transcript. |
 
 ---
 
