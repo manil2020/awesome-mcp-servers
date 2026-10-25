@@ -260,6 +260,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 | [Twitter/X](https://github.com/EnesCinr/twitter-mcp) | Read and post tweets. |
 | [Bluesky](https://github.com/berrydev-ai/bsky-social-mcp) | AT Protocol integration. |
 | [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Local video composition and editing via MCP and editable plan.json timelines. |
+| [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) | Social content adaptation, scheduling, and publishing via MCP and API. |
 | [Unsplash](https://github.com/hellokaton/unsplash-mcp-server) | Free stock photo search. |
 
 ---
