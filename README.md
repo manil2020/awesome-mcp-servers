@@ -178,6 +178,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 | [Puppeteer](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer) | Browser automation and scraping. |
 | [Browser Use](https://github.com/browser-use/browser-use) | AI-driven browser control. |
 | [Browserbase](https://github.com/browserbase/mcp-server-browserbase) | Cloud browser sessions. |
+| [CurlShot](https://github.com/SergiuPogor/curlshot-mcp) | Hosted MCP server that captures web pages as screenshots, PDFs, or scrolling videos. |
 | [Apify](https://github.com/apify/actors-mcp-server) | 3,000+ web scraping actors. |
 
 ---
