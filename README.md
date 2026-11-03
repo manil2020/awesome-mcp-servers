@@ -156,6 +156,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 
 | Server | Description |
 |---|---|
+| [ATS Jobs MCP](https://github.com/GeminiGeorge22/ats-jobs-mcp) | New job postings from Ashby, Greenhouse, Lever and SmartRecruiters boards. |
 | [Brave Search](https://github.com/modelcontextprotocol/servers-archived/tree/main/src/brave-search) | Web and local search via Brave API. |
 | [Tavily](https://github.com/tavily-ai/tavily-mcp) | AI-native search and extract. |
 | [Exa](https://github.com/exa-labs/exa-mcp-server) | Neural web search. |
