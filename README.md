@@ -205,6 +205,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 | [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) | Query OpenAI models directly. |
 | [Ollama](https://github.com/rawveg/ollama-mcp) | Local LLMs via Ollama. |
 | [Pinecone](https://github.com/sirmews/mcp-pinecone) | Vector database queries. |
+| [Sports Odds MCP](https://github.com/GeminiGeorge22/sports-odds-mcp) | Live Kambi sportsbook odds with every book's price and the best price per outcome. |
 | [Weaviate](https://github.com/weaviate/mcp-server-weaviate) | Vector database with hybrid search. |
 | [Qdrant](https://github.com/qdrant/mcp-server-qdrant) | Semantic memory in Qdrant. |
 | [Chroma](https://github.com/chroma-core/chroma-mcp) | Chroma vector DB integration. |
