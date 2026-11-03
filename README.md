@@ -200,6 +200,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 
 | Server | Description |
 |---|---|
+| [Etsy Sales MCP](https://github.com/GeminiGeorge22/etsy-sales-mcp) | Etsy search results by keyword and category, plus daily sales for any Etsy shop. |
 | [HuggingFace](https://github.com/evalstate/mcp-hfspace) | Interact with HF Spaces. |
 | [Replicate](https://github.com/deepfates/mcp-replicate) | Run models on Replicate. |
 | [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) | Query OpenAI models directly. |
