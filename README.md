@@ -200,6 +200,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 
 | Server | Description |
 |---|---|
+| [Gov Tenders MCP](https://github.com/GeminiGeorge22/gov-tenders-mcp) | Public tenders, grants and awards (US, UK, EU) plus city council agendas. |
 | [HuggingFace](https://github.com/evalstate/mcp-hfspace) | Interact with HF Spaces. |
 | [Replicate](https://github.com/deepfates/mcp-replicate) | Run models on Replicate. |
 | [OpenAI](https://github.com/pierrebrunelle/mcp-server-openai) | Query OpenAI models directly. |
@@ -212,6 +213,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 
 ---
 
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 ## CRM & Business
 
 | Server | Description |
