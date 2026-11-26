@@ -148,6 +148,7 @@ Maintained by the MCP core team at [modelcontextprotocol/servers](https://github
 | [WhatsApp](https://github.com/lharries/whatsapp-mcp) | WhatsApp via personal account. |
 | [Gmail](https://github.com/GongRzhe/Gmail-MCP-Server) | Read/send email via Gmail. |
 | [Outlook](https://github.com/ryaker/outlook-mcp) | Microsoft Outlook mail/calendar. |
+| [Poptin MCP](https://developers.poptin.com/docs/mcp) | Draft email campaigns, review popup and form conversions, and build subscriber segments. |
 | [Resend](https://github.com/resend/mcp-send-email) | Send transactional email. |
 
 ---
